@@ -7,4 +7,4 @@ Authors:
 Tiago Ramalho
 Miguel Miranda
 
-2009
+2007 - 2009
